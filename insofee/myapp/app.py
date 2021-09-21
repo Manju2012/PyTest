@@ -1,4 +1,4 @@
-from insofee.myapp.mymodule.funcs import multiply, divide
+from PyTest1.insofee.myapp.mymodule.funcs import multiply, divide
 
 
 def multiply_by_two(x):

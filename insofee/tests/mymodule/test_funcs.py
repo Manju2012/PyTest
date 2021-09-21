@@ -1,6 +1,6 @@
 import pytest
 
-from insofee.myapp.mymodule.funcs import add, sub, multiply, divide
+from PyTest1.insofee.myapp.mymodule.funcs import add, sub, multiply, divide
 
 
 @pytest.mark.easy_op

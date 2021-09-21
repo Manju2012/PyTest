@@ -1,6 +1,6 @@
 import pytest
 
-from insofee.myapp.app import multiply_by_two, divide_by_two
+from PyTest1.insofee.myapp.app import multiply_by_two, divide_by_two
 
 
 @pytest.fixture

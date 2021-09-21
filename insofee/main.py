@@ -1,6 +1,6 @@
 import sys
 
-from insofee.myapp.app import divide_by_two, multiply_by_two
+from PyTest1.insofee.myapp.app import divide_by_two, multiply_by_two
 
 
 def main():
